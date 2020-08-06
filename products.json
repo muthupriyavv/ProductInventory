@@ -1,0 +1,16 @@
+{
+    "products" : [
+        {
+            "name": "Samsung",
+            "category" : "electronics",
+            "price": "1000",
+            "quantity" : "200"
+        },
+        {
+            "name": "Iphone",
+            "category" : "electronics",
+            "price": "100000",
+            "quantity" : "2000"
+        }
+    ]
+}
